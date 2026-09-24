@@ -1,5 +1,2 @@
 1. First Code Snippet (Image 1)This code handles Student Information management:   Collecting & Displaying Data: It reads the student's name (txtname), ID (txtstudentid), department (txtdepartment), and semester (txtsemester). It then concatenates these values with commas and displays the full formatted text in a label (lbloutput).   Clear Button (btnclear_Click): Resets and clears all textboxes and the output label so the form can be reused.   Exit Button (btnexit_Click): Intended to close the current form/application.
-
-
-
 2. Second Code Snippet (Image 2)This code handles Date Formatting:   Show Date Button (btnshowdate_Click): Retrieves the day of the week (txtdayofweek), month (txtmonth), day of the month (txtdayofmonth), and year (txtyear). It combines these into a single formatted string separated by spaces and displays it in a label (lbldataoutput).   Clear Button (button1_Click): Clears all input textboxes and resets the output label.

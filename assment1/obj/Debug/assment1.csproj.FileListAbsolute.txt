@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\c#ch1\ch2\assment1\assment1\bin\Debug\assment1.exe.config
+C:\Users\hp\Documents\c#ch1\ch2\assment1\assment1\bin\Debug\assment1.exe
+C:\Users\hp\Documents\c#ch1\ch2\assment1\assment1\bin\Debug\assment1.pdb
+C:\Users\hp\Documents\c#ch1\ch2\assment1\assment1\obj\Debug\assment1.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\c#ch1\ch2\assment1\assment1\obj\Debug\assment1.Form1.resources
+C:\Users\hp\Documents\c#ch1\ch2\assment1\assment1\obj\Debug\assment1.Properties.Resources.resources
+C:\Users\hp\Documents\c#ch1\ch2\assment1\assment1\obj\Debug\assment1.csproj.GenerateResource.cache
+C:\Users\hp\Documents\c#ch1\ch2\assment1\assment1\obj\Debug\assment1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\c#ch1\ch2\assment1\assment1\obj\Debug\assment1.exe
+C:\Users\hp\Documents\c#ch1\ch2\assment1\assment1\obj\Debug\assment1.pdb
+C:\Users\hp\Documents\c#ch1\ch2\assment1\assment1\obj\Debug\assment1.exe.config

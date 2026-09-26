@@ -1,4 +1,8 @@
 ALL TOPIC DISCOUSS
+
+
+
+
 3.1 Reading Input with TextBox Controls  
  3.2 A First Look at Variables  
  3.3 Numeric Data Type and Variables  

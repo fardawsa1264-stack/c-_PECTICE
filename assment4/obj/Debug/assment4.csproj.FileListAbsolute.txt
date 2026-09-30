@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\assment4\assment4\assment4\bin\Debug\assment4.exe.config
+C:\Users\hp\Documents\assment4\assment4\assment4\bin\Debug\assment4.exe
+C:\Users\hp\Documents\assment4\assment4\assment4\bin\Debug\assment4.pdb
+C:\Users\hp\Documents\assment4\assment4\assment4\obj\Debug\assment4.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\assment4\assment4\assment4\obj\Debug\assment4.Form1.resources
+C:\Users\hp\Documents\assment4\assment4\assment4\obj\Debug\assment4.Properties.Resources.resources
+C:\Users\hp\Documents\assment4\assment4\assment4\obj\Debug\assment4.csproj.GenerateResource.cache
+C:\Users\hp\Documents\assment4\assment4\assment4\obj\Debug\assment4.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\assment4\assment4\assment4\obj\Debug\assment4.exe
+C:\Users\hp\Documents\assment4\assment4\assment4\obj\Debug\assment4.pdb
+C:\Users\hp\Documents\assment4\assment4\assment4\obj\Debug\assment4.exe.config

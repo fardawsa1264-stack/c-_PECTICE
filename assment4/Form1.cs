@@ -41,24 +41,31 @@ namespace assment4
         {
             try
             {
+                //string input
                 string customername = txtcustomer.Text;
+                //double input
                 double previousReading = double.Parse(txtprevious.Text);
                 double currentReading = double.Parse(txtcurrent.Text);
                 double unitperprice = double.Parse(txtunitprice.Text);
-
+                ///calculate
                 double usge = currentReading - previousReading;
                 double Subtotal = usge * unitperprice;
-                double Tax = Subtotal * 0.07;
-                double TotalBill = Subtotal + Tax;
+                double tax = Subtotal * 0.07;
+                double TotalBill = Subtotal + tax + 5;
+               
 
-
+                //diplay result
                 lblUsage.Text = usge.ToString();
-                lblTax.Text = "$" + Tax.ToString("0,00");
+                lblTax.Text = "$" + tax.ToString("0.00");
                 lblTotal.Text = "$" + TotalBill.ToString("0.00");
             }
             catch (Exception ex) {
-
-                MessageBox.Show("PLEASE ENTER VALID NUMBERS.");
+                //show erroe messge
+                MessageBox.Show("PLEASE ENTER VALID NUMBERS.",
+                    "Error",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Error
+                    );
             }
         }
 

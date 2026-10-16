@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\ch3\assemt6\assemt6\bin\Debug\assemt6.exe.config
+C:\Users\hp\Documents\ch3\assemt6\assemt6\bin\Debug\assemt6.exe
+C:\Users\hp\Documents\ch3\assemt6\assemt6\bin\Debug\assemt6.pdb
+C:\Users\hp\Documents\ch3\assemt6\assemt6\obj\Debug\assemt6.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\ch3\assemt6\assemt6\obj\Debug\assemt6.Form1.resources
+C:\Users\hp\Documents\ch3\assemt6\assemt6\obj\Debug\assemt6.Properties.Resources.resources
+C:\Users\hp\Documents\ch3\assemt6\assemt6\obj\Debug\assemt6.csproj.GenerateResource.cache
+C:\Users\hp\Documents\ch3\assemt6\assemt6\obj\Debug\assemt6.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\ch3\assemt6\assemt6\obj\Debug\assemt6.exe
+C:\Users\hp\Documents\ch3\assemt6\assemt6\obj\Debug\assemt6.pdb
+C:\Users\hp\Documents\ch3\assemt6\assemt6\obj\Debug\assemt6.exe.config

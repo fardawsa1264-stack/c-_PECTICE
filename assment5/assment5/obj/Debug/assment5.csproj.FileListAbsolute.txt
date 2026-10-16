@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\ch3\assment5\assment5\obj\Debug\assment5.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\ch3\assment5\assment5\obj\Debug\assment5.Form1.resources
+C:\Users\hp\Documents\ch3\assment5\assment5\obj\Debug\assment5.Properties.Resources.resources
+C:\Users\hp\Documents\ch3\assment5\assment5\obj\Debug\assment5.csproj.GenerateResource.cache
+C:\Users\hp\Documents\ch3\assment5\assment5\obj\Debug\assment5.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\ch3\assment5\assment5\bin\Debug\assment5.exe.config
+C:\Users\hp\Documents\ch3\assment5\assment5\bin\Debug\assment5.exe
+C:\Users\hp\Documents\ch3\assment5\assment5\bin\Debug\assment5.pdb
+C:\Users\hp\Documents\ch3\assment5\assment5\obj\Debug\assment5.exe
+C:\Users\hp\Documents\ch3\assment5\assment5\obj\Debug\assment5.pdb
+C:\Users\hp\Documents\ch3\assment5\assment5\obj\Debug\assment5.exe.config

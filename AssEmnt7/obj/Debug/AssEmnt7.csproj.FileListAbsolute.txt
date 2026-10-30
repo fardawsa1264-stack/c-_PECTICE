@@ -1,0 +1,10 @@
+C:\Users\hp\Favorites\Desktop\ass1\AssEmnt7\AssEmnt7\bin\Debug\AssEmnt7.exe.config
+C:\Users\hp\Favorites\Desktop\ass1\AssEmnt7\AssEmnt7\bin\Debug\AssEmnt7.exe
+C:\Users\hp\Favorites\Desktop\ass1\AssEmnt7\AssEmnt7\bin\Debug\AssEmnt7.pdb
+C:\Users\hp\Favorites\Desktop\ass1\AssEmnt7\AssEmnt7\obj\Debug\AssEmnt7.csproj.AssemblyReference.cache
+C:\Users\hp\Favorites\Desktop\ass1\AssEmnt7\AssEmnt7\obj\Debug\AssEmnt7.Form1.resources
+C:\Users\hp\Favorites\Desktop\ass1\AssEmnt7\AssEmnt7\obj\Debug\AssEmnt7.Properties.Resources.resources
+C:\Users\hp\Favorites\Desktop\ass1\AssEmnt7\AssEmnt7\obj\Debug\AssEmnt7.csproj.GenerateResource.cache
+C:\Users\hp\Favorites\Desktop\ass1\AssEmnt7\AssEmnt7\obj\Debug\AssEmnt7.csproj.CoreCompileInputs.cache
+C:\Users\hp\Favorites\Desktop\ass1\AssEmnt7\AssEmnt7\obj\Debug\AssEmnt7.exe
+C:\Users\hp\Favorites\Desktop\ass1\AssEmnt7\AssEmnt7\obj\Debug\AssEmnt7.pdb

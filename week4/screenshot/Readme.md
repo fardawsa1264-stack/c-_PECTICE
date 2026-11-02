@@ -1,5 +1,5 @@
 
-Screen 1 – Reading a File with StreamReader
+Screen 1  Reading a File with StreamReader
 
 This example shows how to open and read a file using `StreamReader`.
 
@@ -13,7 +13,7 @@ The `while` loop continues reading until the end of the file is reached.
 
 ---
 
-## Screen 2 – Dialog Result: OK or Cancel
+## Screen 2  Dialog Result: OK or Cancel
 
 This example checks whether the user selects **OK** or **Cancel** in the file dialog.
 
@@ -27,7 +27,7 @@ This prevents the program from trying to read a file when the user cancels the d
 
 ---
 
-## Screen 3 – ReadLine Method
+## Screen 3  ReadLine Method
 
 This example demonstrates the `ReadLine()` method.
 
@@ -42,7 +42,7 @@ If an error occurs, `MessageBox.Show()` displays the error message.
 
 ---
 
-## Screen 4 – Reading a File
+## Screen 4  Reading a File
 
 This screen shows different ways to read data from a file.
 
@@ -62,7 +62,7 @@ After reading the file, `Close()` is used to close the `StreamReader`.
 
 ---
 
-## Screen 5 – Prefix and Postfix Operators
+## Screen 5  Prefix and Postfix Operators
 
 This example demonstrates the difference between **postfix** and **prefix** increment operators.
 

@@ -105,4 +105,4 @@ After this statement:
 ### Main Difference
 
 - **Postfix (`count++`)** → use the value first, then increase it.
-- **Prefix (`++count`)** → increase the value first, then use it.
+- **Prefix (`++count`)** → increase the value first, then use it
